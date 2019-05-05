@@ -1,4 +1,24 @@
-*{
+* {
     margin: 0;
     padding: 0;
 }
+
+main {
+    width: 1366px;
+    margin: 0 auto;
+}
+
+.butttons_pannel {
+    margin: 0 auto;
+}
+
+.button_description {
+    text-align: center;
+    margin-top: 5px;
+    font-size: 20px;
+    border: none;
+    border-radius: 5px;
+    width: 50px;
+    height: 50px;
+}
+
